@@ -1,0 +1,84 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.5.7)  17 MAY 2010 11:33
+entering extended mode
+ %&-line parsing enabled.
+**gpl.tex
+(./gpl.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, basque, french, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size11.clo
+File: size11.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./gpl.aux)
+\openout1 = `gpl.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 7.
+
+
+LaTeX Warning: No \author given.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 12.
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 12.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7]
+Overfull \hbox (2.78006pt too wide) in paragraph at lines 359--364
+[]\OT1/cmr/m/n/10.95 Corresponding Source con-veyed, and In-stal-la-tion In-for
+-ma-tion pro-vided,
+ []
+
+[8] [9] [10] [11] [12] [13] [14] [15] (./gpl.aux) ) 
+Here is how much of TeX's memory you used:
+ 250 strings out of 95063
+ 2757 string characters out of 1182611
+ 49024 words of memory out of 1500000
+ 3503 multiletter control sequences out of 10000+50000
+ 8307 words of font info for 30 fonts, out of 1200000 for 2000
+ 28 hyphenation exceptions out of 8191
+ 21i,6n,19p,171b,246s stack positions out of 5000i,500n,6000p,200000b,5000s
+</usr/share/texmf-texlive/fo
+nts/type1/bluesky/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/c
+m/cmcsc10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr10.pfb></usr/
+share/texmf-texlive/fonts/type1/bluesky/cm/cmr12.pfb></usr/share/texmf-texlive/
+fonts/type1/bluesky/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/
+cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmtt10.pfb>
+Output written on gpl.pdf (15 pages, 75579 bytes).
+PDF statistics:
+ 79 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

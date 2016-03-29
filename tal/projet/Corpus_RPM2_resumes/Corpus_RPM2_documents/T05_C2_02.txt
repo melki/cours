@@ -1,0 +1,17 @@
+La demi- victoire de la Cnil 
+Elle a bataillé pour obtenir des aménagements.
+Consultée au printemps dernier, la Commission nationale de l'informatique et des libertés (Cnil) a émis un certain nombre de réserves concernant Edvige.
+Quelques-unes de ses recommandations ont été suivies par le gouvernement.
+Première victoire pour la Cnil: la publication au Journal officiel, le 1er juillet, du décret créant Edvige.
+Comme l'explique Yann Padova, le secrétaire général de l'autorité indépendante, «c'était loin d'être gagné. Le gouvernement n'avait pas l'intention de rendre le texte public. C'est une grande satisfaction et une vraie garantie pour les citoyens».
+Conséquence juridique de la publication du décret, la Cnil aura un droit de regard sur le fichier.
+Et pourra demander par exemple, au nom d'un justiciable, la suppression de certaines données collectées de manière abusive.
+«On a aussi obtenu l'absence de recoupement possible entre Edvige et d'autres fichiers, notamment ceux de la police judiciaire», se félicite Yann Padova.
+Quant aux personnalités publiques (syndicales, religieuses ou politiques), la version finale du décret exclut la collecte des données relatives à leurs «déplacements» et «comportement».
+«Là aussi, on s'est battu. Mais c'était essentiel pour permettre à ces personnes d'exercer leurs responsabilités.» Sur d'autres points, la Cnil n'a pas obtenu satisfaction.
+Ou «à moitié» :  «Pour les données sur l'orientation sexuelle et le dossier de santé, on n'a pas réussi à les interdire mais seulement à les autoriser de manière exceptionnelle. C'est déjà ça.»
+La Cnil n'a en revanche pas obtenu satisfaction sur la durée de conservation des données.
+«Comment accepter que des informations relatives à des mineurs soient stockées à vie. On n'est tout de même pas pareil à 15 ans et à 35. Et le droit à l'oubli ?»
+Autre sujet d'inquiétude soulevée par la Cnil, le niveau de sécurité technique entourant le fonctionnement d'Edvige.
+Le décret reste très vague sur le système de traçabilité permettant d'identifier les personnes ayant accès au fichier.
+«C'est pourtant là un moyen élémentaire et indispensable d'éviter les abus», regrette Yann Padova.

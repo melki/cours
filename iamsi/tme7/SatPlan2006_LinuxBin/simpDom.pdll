@@ -1,0 +1,21 @@
+( define (domain blockWorld)
+(:requirements :strips :typing)
+(:types block support)
+(:predicates
+	(on ?x - block ?y - block)
+	(moveTo ?x -block ?y -block ?z -block)
+	(moveToTable ?x -block ?y -block)
+	(clear ?x - block)
+
+	
+	
+(:action moveToTable
+	:parameters (?x - block ?y - block)
+	:precondition (and (clear ?x) (on ?x ?y))
+	:effect (and (not (ontable ?x))
+			(not (clear ?x))
+			(not (handempty))
+			(holding ?x)))
+
+
+)

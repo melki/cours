@@ -1,0 +1,68 @@
+Quels type de phrases 
+
+NPP
+
+
+Text planning, comment organiser les infos dans la phrase,
+quelles hierarchie 
+
+problèmes sur "set of templates"
+
+concepts à revoir
+
+
+
+somme min max à chaque fois
+puis recalcule
+
+2 niveaux pour les aggrégateurs
+
+agrégateurs !!
+
+Extraction planner
+Quels agrégats veut on ?
+Cols ? Lignes ? Regroupé ?
+Renvoie des concepts ?
+
+
+
+1/
+Extraction de concepts 
+1 [min max avg ] (ALL )->  Concepts
+
+Problèmes avec les ontologies
+Prédéfinies ? 
+Recherche de groupes 
+
+
+Elections
+
+
+en Entréee
+Données
+Ontologie
+Noms des collones
+Agrégateurs (min max moy)
+	->  appliqué sur les groupes
+Vocabulaire
+
+Groupe att
+
+
+Boite Groupe (par défaut avec les ontologies)
+
+
+Extraction des zones d'întéret
+
+Ontologie participe un peu au text planiing
+
+qu'est ce qui intéressant avec les agrégateurs .
+
+Ordonner les concepts par ordre d'intéret + les ranger dans le texte final.
+
+
+
+Récapituler tout avec des exemples cocnret
+
+
+

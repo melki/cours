@@ -1,0 +1,303 @@
+Do you want me to sit here ?
+No, here is fine .
+- You 're <START:person> Kristen Balko <END> ? - Yes .
+And you 're VP of Information Security at <START:organization> Running Milk <END> ?
+That 's right .
+Um , is this part of the test ?
+No, just the pre-test .
+Think of this as a practice run .
+We gather some background information , then go over the questions you 'll be asked .
+You 're gonna tell me the questions on the test - before the test ?
+- That 's right .
+Is n't that cheating ?
+Uh , no , it is n't like the movies , <START:person> Ms. Balko <END> .
+There are no "gotcha moments " .
+You 'll know every question beforehand .
+Okay , got it .
+Fire away .
+Have you ever shared confidential materials with individuals not employed with <START:organization> Running Milk <END> ?
+No, never .
+Am I supposed to answer ?
+Anything you want .
+Have you ever stolen anything from your workplace ?
+Never .
+Have you ever lied to the company ?
+No. 
+I lied .
+You did steal materials from the workplace ?
+No, I lied by saying I never lied to the company .
+Could you be more specific ?
+When I applied , in my résumé I told them that I worked as a VP of Information Technology at a previous company .
+But there was no VP of Information Technology .
+- Oh , that 's it ?
+- Yes , what do you mean ?
+They fired you because you said you were a VP on your résumé ?
+No, they fired me because I lied in the lie detector test .
+But that was n't the point of the lie detector test , right ?
+They were trying to find someone who stole - confidential materials .
+- Right .
+And you did n't do that .
+Did you try to explain that to your boss ?
+Yes , but they said I lied to the company , so they could fire me .
+That 's why I 'm suing .
+<START:location> Silicon Valley <END> 's a very provincial town .
+I ca n't get a job anywhere .
+Well , The Polygraph Protection Act keeps an employer from forcing you to take a lie detector test , but there are exceptions .
+Theft .
+Uh , <START:person> Kristen <END> , this is our investigator <START:person> Jason <END> .
+Hi .
+But I did n't steal anything .
+Yes , but it was the reason for the polygraph .
+They caught you in another lie , but ...
+They need corroborating evidence .
+Right .
+And they could n't have fired her unless they already had some evidence that she lied on her résumé .
+Did they , <START:person> Kristen <END> ?
+Have evidence I lied ?
+No, I do n't think so .
+The whole point of the polygraph was about this theft .
+Okay , um , why do n't you give us the day to think about it ?
+Actually , I do n't have a day .
+Mr. <START:person> Canning <END> told me you 'd be able to move faster than he could .
+- <START:person> Louis Canning <END> ? - Yes .
+He already filed the suit , but he got busy with another case , and he thought you 'd be good to take it over .
+I 'm sure he did .
+All right , I will see if they have any corroborating evidence .
+Good , a polygraph ca n't be the sole basis for firing .
+So what ... cap my work off at five hours ?
+- Yeah . - Okay .
+So , what did you find out about insurance ?
+Oh , yeah .
+Malpractice insurance is a fortune , but we could bundle it .
+I can get a rider to your homeowner 's policy , and just split the increase in your premium ?
+Will the coverage extend to <START:person> Jason <END> ?
+No, he 's a freelancer .
+I do n't think it 's a problem .
+Did you know he used to be a lawyer ?
+- No. - He practiced in <START:location> New Jersey <END> .
+He was disbarred for a criminal conviction .
+He punched a judge .
+He punched a judge ?
+- Yep. - Why ?
+I guess he did n't like his decision .
+And you 're worried about the insurance ?
+Yeah , if <START:person> Jason <END> beats up someone on the job ... Yeah , well , due diligence .
+We should find out what happened .
+Okay , I 'm gonna call <START:location> New Jersey <END> .
+See if I can talk to the judge .
+What 's up , <START:person> Eli <END> ? What 's the best thing about <START:person> Peter <END> ?
+Excuse me ?
+I need a quote from you for <START:person> Peter <END> 's bio .
+Do you need it to be true ?
+True adjacent .
+<START:person> Peter <END> 's motto is " Service above self .
+My family has benefitted from it , now <START:location> America <END> can . "
+<START:person> Eli <END> , that 's ...
+I know , it 's nauseating .
+Help me out .
+<START:person> Eli <END> ?
+Over here .
+Just a second , <START:person> Alicia <END> .
+I thought this was a staff meeting .
+It is .
+Turn off your cell phone and I 'll turn off mine .
+- What is it ?
+- An Alabama Slammer .
+Yeah .
+I like them strong .
+Confusion to our enemies .
+So , what are we discussing , <START:person> Ruth <END> ?
+What makes <START:person> Eli Gold <END> tick ?
+Uh , I know how this works , <START:person> Ruth <END> .
+Unless you 're trying to seduce me , which I very much doubt , you get me drunk , you pretend to be drunk and you find out more about me than I find out about you .
+Oh , <START:person> Eli <END> , you 're too suspicious .
+You 're a new tree in my forest .
+I want to know more about that tree , that 's all .
+Because unless I chop it down , that tree 's now part of my life .
+- So... - My grandfather , <START:person> Samuel Gold <END> , was a teamster organizer in <START:location> Brooklyn <END> .
+Everything I learned , I learned from him .
+I remember going to visit him in his office when I was little .
+All the people coming to kiss his ring .
+Looking for advice , for help .
+And he told me that the most powerful men are the ones that no one knows exist .
+Is something funny ?
+- Oh , yeah .
+- What ? None of that was true .
+Your grandfather was <START:person> Ira Goldstein <END> , owner of a schmatta business in <START:location> Queens <END> .
+He died a pauper after his brother-in-law cheated him out of a uniform consignment with the <START:organization> NYPD <END>.
+And that quote ?
+You changed it .
+It 's from The Usual Suspects .
+So , what do you want , <START:person> Ruth <END> ?
+Why are you pretending to care about me ?
+We got new internals from this afternoon .
+<START:person> Peter <END> made another four point bump .
+That 's more than a fluke , that 's a trend .
+We broke through .
+We have a shot .
+And not just at the vice presidency .
+We could win .
+Things turn sour for <START:person> Hillary <END> ... the e-mails , the next thing they throw at her ... we win .
+But we need to be rowing in the same direction .
+This goes the way we all want , they 'll be enough to carve up for both of us .
+- You see that , right ?
+- I do .
+So the strategy 's changed .
+We 're not being kind and deferential to the frontrunner .
+We 're acting like the frontrunner .
+We 're not aiming for the vice presidency .
+We 're aiming for the presidency .
+So , what do you need from me ? We 're moving up the announcement to Thursday .
+We want to take advantage of the momentum .
+You need <START:person> Alicia <END> ?
+Yes , much more than we originally agreed .
+Voters need to see these two together .
+Young , vibrant , looking toward the future .
+<START:person> Jackie O <END> to his <START:person> JFK <END>.
+We need to work together , <START:person> Eli <END> .
+You need to trust me .
+And I need to trust you .
+Who 's that ?
+I do n't know .
+<START:location> Silicon Valley <END> lawyer ?
+- Hello .
+<START:person> Alice Florrick <END> , yes ? - Yes . <START:person> Andrea Stevens <END> .
+It 's so nice to meet you .
+I was told you were the opposing counsel .
+It just makes it so much more exciting when you respect the opposition , do n't you think ? - It does .
+- Hello .
+Hi .
+<START:person> Lucca Quinn <END> .
+Hi .
+I love your hair .
+How many years are you out of law school , <START:person> Lucca <END> ?
+A few .
+Well , that 's better than less than a few .
+All rise .
+- Oh , here we go .
+- Court is now in session .
+<START:person> Lucca <END> , if you ever want any advice .
+Good afternoon .
+I 've read your preliminary motions .
+I would like to take up the , uh , jurisdictional question .
+Your Honor , the plaintiff lives in <START:location> Chicago <END> ... Whoa , whoa , whoa , whoa !
+Your Honor , I was warned about <START:location> Chicago <END> courtrooms , but I did n't think it was gonna be about who shouted the loudest .
+It is n't , Counselor .
+What do you have ?
+Thank you , Your Honor .
+This is rank forum shopping .
+<START:person> Mrs. Florrick <END> knows this case belongs in <START:location> California <END> .
+<START:organization> Running Milk <END> has no <START:location> Chicago <END> offices .
+And the lie detector test in question took place in <START:location> California <END> .
+<START:person> Kristen Balko <END> lives in <START:location> Chicago <END> .
+And thanks to the cloud tax passed by the <START:organization> Chicago City Council <END> , <START:organization> Running Milk <END> 's offices are both in <START:location> California <END> and <START:location> Illinois <END> .
+Yes , but respectfully , Your Honor , they are not physically in <START:location> Illinois <END> .
+But as <START:organization> Running Milk <END> and its ilk have constantly reminded us : " Brick and mortar are things of the past .
+The cloud is the future . "
+Your Honor , so many of our witnesses will have to be flown in from <START:location> San Jose <END> and that does n't ...
+And so many of our witnesses will have - to be flown in from <START:location> Chicago <END> ... - Your Honor , to refute these ... Thank you .
+But as Ms. <START:person> Stevens <END> pointed out , this should n't be about who shouts the loudest .
+Motion is denied .
+We 'll hear the case here .
+Please have the <START:organization> Running Milk <END> software spec sent to me by end of day , thank you .
+Just the first skirmish .
+_ - <START:person> Peter <END> wants to be president .
+- Excuse me ?
+<START:person> Peter <END> thinks he can be president .
+I need a drink .
+Do you want one ?
+No, I need to go .
+They moved the announcement up to Thursday .
+You need to be in <START:location> Springfield <END> .
+I wrote you a speech ; very <START:person> Michelle Obama <END> .
+- What time Thursday ?
+- 3:00 p.m. They 'll need us more than usual .
+They keep mixing their metaphors .
+You 're either <START:person> Michelle Obama <END> or <START:person> Jackie O. <END> Do you ever wonder why I 'm hearing this from you and not <START:person> Peter <END> ?
+What ?
+No. What do you mean ?
+Well , I 'm hearing that <START:person> Peter <END> truly is running for president and that I might be First Lady from his campaign manager .
+I am not his campaign manager .
+You think he has a chance ?
+I do n't know .
+I thought <START:person> Trump <END> would self-destruct , so what do I know ?
+Primaries are their own insanity .
+What are you making ?
+A margarita .
+Tequila , triple sec.
+Huh . - You judging me ? - No.
+That sounded like a judgmental huh .
+No. 
+You get as sloppy drunk as you want to .
+So , what do they want me to do ? Be involved .
+Go on Thursday .
+Give a good speech .
+Look First Lady-like .
+I got <START:person> Frank Landau <END> to introduce you .
+It 's not bad having the head of the Democratic committee say nice things about you .
+What are you doing , <START:person> Eli <END> ?
+This does n't sound like you .
+Sure it does .
+This is what I sound like .
+No, no , no , no .
+You 're scheming something here .
+Cheers .
+Hey , I 've got some good news and I got some bad news ... which do you want first ?
+- Bad . - Good .
+<START:organization> Running Milk <END> 's HR team definitely verified - <START:person> Kristen <END> lied on her résumé .
+- Damn . - So we have no case .
+- What 's the good news ?
+I do n't think there was a theft at <START:organization> Running Milk <END> .
+What do you mean ?
+A firm like <START:organization> Running Milk <END> is required to notify their customers of any breach ; they did n't .
+<START:location> California <END> attorney general 's got no record of any breach at <START:organization> Running Milk <END> .
+So they had no reason to polygraph .
+Right , fruit of the poisonous tree .
+Why 'd you punch that judge ?
+I was angry .
+Why were you angry ?
+Do n't you get angry ?
+I do , but I do n't punch people .
+Maybe you should start .
+As you can see , Your Honor , <START:organization> Running Milk <END> never suffered a security breach , and since that was the only legal justification for polygraphing our client , - that polygraph must be thrown out .
+- Is this true ?
+Can you give me one second , Your Honor ?
+As you requested , uh , the CEO of <START:organization> Running Milk <END> flew in a great personal expense .
+I 'm honored .
+Without admitting to any wrongdoing , Your Honor , <START:organization> Running Milk <END> generously agrees to rehire the plaintiff at her original salary .
+We just want this to be over .
+- Really ?
+Since when ? - Since an hour ago .
+We ask that this suit be dismissed , Your Honor .
+Your Honor , if our client is rehired , she ca n't be subjected to a new polygraph , is that correct ?
+Yes , private employers are barred from making polygraphs a condition of employment .
+May we have a ruling on that , Your Honor ?
+Um , can ... I 'm-I 'm sorry , can I just have one more second , Your Honor ?
+Actually , polygraphs may be applied to employees engaged in counterintelligence or national security functions , pursuant to a contract with the federal government .
+Your Honor , our client has no connection with national security .
+And again I ask for a ruling .
+These contracts show that <START:organization> Running Milk <END> has ongoing accounts with the government .
+This makes no sense .
+If these contracts were the reason for these polygraph tests , then why create the fiction of a security breach ?
+Are we really wondering why the <START:organization> National Security Agency <END> might have a need for secrecy ?
+Your Honor , the defendant just plans to rehire our client so they can fire her again .
+Yes , but legally .
+These contracts appear in order .
+Before <START:person> Miss Balko <END> starts work again , she 'll need to submit to a polygraph .
+Your Honor .
+I do n't have time for this , <START:person> Eli <END> .
+Even for a friend ?
+If you 're wearing a wire , you have to tell me , or it 'll be thrown out in court .
+I am not wearing a wire .
+I need your help .
+I would never have taken that bribe .
+I did n't need you to warn me .
+But I did warn you .
+What ?
+What do you need ?
+Information on <START:person> Frank Landau <END> and his manipulation of voting machines in the last election .
+- No, I wo n't betray him .
+- He wo n't know it 's you .
+I just need the proof from you , and I 'll do the rest .
+What are you up to ?
+
